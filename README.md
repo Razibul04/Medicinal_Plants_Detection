@@ -1,1 +1,1 @@
-# Medicinal_Plants_Detection
+# Medicinal_Plants_Detection_By_Using_Deep_Learning_Model
